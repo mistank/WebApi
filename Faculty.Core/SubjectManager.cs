@@ -11,7 +11,7 @@ public class SubjectManager
     public SubjectManager()
     {
     }
-// asdfasd
+
     public List<SubjectModel> Create(SubjectCreateModel model)
     {
         var newSubject = new SubjectModel()
