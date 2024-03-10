@@ -1,0 +1,11 @@
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/bin/Debug/net7.0/Faculty.Entities.deps.json
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/bin/Debug/net7.0/Faculty.Entities.dll
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/bin/Debug/net7.0/Faculty.Entities.pdb
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/obj/Debug/net7.0/Faculty.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/obj/Debug/net7.0/Faculty.Entities.AssemblyInfoInputs.cache
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/obj/Debug/net7.0/Faculty.Entities.AssemblyInfo.cs
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/obj/Debug/net7.0/Faculty.Entities.csproj.CoreCompileInputs.cache
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/obj/Debug/net7.0/Faculty.Entities.dll
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/obj/Debug/net7.0/refint/Faculty.Entities.dll
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/obj/Debug/net7.0/Faculty.Entities.pdb
+/Users/milan/RiderProjects/WebApi/Faculty.Entities/obj/Debug/net7.0/ref/Faculty.Entities.dll

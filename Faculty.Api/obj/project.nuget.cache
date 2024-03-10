@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RsE56IY/Me+BNm3rsZRnXqYhRgSZeNqRgl+0sM0VazXHuqEMao4UYsXyaGLI+bDGXMeDMmpB2zFvDfET/cQEFg==",
+  "success": true,
+  "projectFilePath": "/Users/milan/RiderProjects/WebApi/Faculty.Api/Faculty.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/milan/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "/Users/milan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/milan/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/milan/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/milan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/milan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/milan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

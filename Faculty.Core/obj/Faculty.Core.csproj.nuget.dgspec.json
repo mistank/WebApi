@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/milan/RiderProjects/WebApi/Faculty.Core/Faculty.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/milan/RiderProjects/WebApi/Faculty.Common/Faculty.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/milan/RiderProjects/WebApi/Faculty.Common/Faculty.Common.csproj",
+        "projectName": "Faculty.Common",
+        "projectPath": "/Users/milan/RiderProjects/WebApi/Faculty.Common/Faculty.Common.csproj",
+        "packagesPath": "/Users/milan/.nuget/packages/",
+        "outputPath": "/Users/milan/RiderProjects/WebApi/Faculty.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/milan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/milan/RiderProjects/WebApi/Faculty.Core/Faculty.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/milan/RiderProjects/WebApi/Faculty.Core/Faculty.Core.csproj",
+        "projectName": "Faculty.Core",
+        "projectPath": "/Users/milan/RiderProjects/WebApi/Faculty.Core/Faculty.Core.csproj",
+        "packagesPath": "/Users/milan/.nuget/packages/",
+        "outputPath": "/Users/milan/RiderProjects/WebApi/Faculty.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/milan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/milan/RiderProjects/WebApi/Faculty.Common/Faculty.Common.csproj": {
+                "projectPath": "/Users/milan/RiderProjects/WebApi/Faculty.Common/Faculty.Common.csproj"
+              },
+              "/Users/milan/RiderProjects/WebApi/Faculty.Data/Faculty.Data.csproj": {
+                "projectPath": "/Users/milan/RiderProjects/WebApi/Faculty.Data/Faculty.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/milan/RiderProjects/WebApi/Faculty.Data/Faculty.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/milan/RiderProjects/WebApi/Faculty.Data/Faculty.Data.csproj",
+        "projectName": "Faculty.Data",
+        "projectPath": "/Users/milan/RiderProjects/WebApi/Faculty.Data/Faculty.Data.csproj",
+        "packagesPath": "/Users/milan/.nuget/packages/",
+        "outputPath": "/Users/milan/RiderProjects/WebApi/Faculty.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/milan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/milan/RiderProjects/WebApi/Faculty.Entities/Faculty.Entities.csproj": {
+                "projectPath": "/Users/milan/RiderProjects/WebApi/Faculty.Entities/Faculty.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/milan/RiderProjects/WebApi/Faculty.Entities/Faculty.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/milan/RiderProjects/WebApi/Faculty.Entities/Faculty.Entities.csproj",
+        "projectName": "Faculty.Entities",
+        "projectPath": "/Users/milan/RiderProjects/WebApi/Faculty.Entities/Faculty.Entities.csproj",
+        "packagesPath": "/Users/milan/.nuget/packages/",
+        "outputPath": "/Users/milan/RiderProjects/WebApi/Faculty.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/milan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/milan/RiderProjects/WebApi/Faculty.Common/bin/Debug/net7.0/Faculty.Common.deps.json
+/Users/milan/RiderProjects/WebApi/Faculty.Common/bin/Debug/net7.0/Faculty.Common.dll
+/Users/milan/RiderProjects/WebApi/Faculty.Common/bin/Debug/net7.0/Faculty.Common.pdb
+/Users/milan/RiderProjects/WebApi/Faculty.Common/obj/Debug/net7.0/Faculty.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milan/RiderProjects/WebApi/Faculty.Common/obj/Debug/net7.0/Faculty.Common.AssemblyInfoInputs.cache
+/Users/milan/RiderProjects/WebApi/Faculty.Common/obj/Debug/net7.0/Faculty.Common.AssemblyInfo.cs
+/Users/milan/RiderProjects/WebApi/Faculty.Common/obj/Debug/net7.0/Faculty.Common.csproj.CoreCompileInputs.cache
+/Users/milan/RiderProjects/WebApi/Faculty.Common/obj/Debug/net7.0/Faculty.Common.dll
+/Users/milan/RiderProjects/WebApi/Faculty.Common/obj/Debug/net7.0/refint/Faculty.Common.dll
+/Users/milan/RiderProjects/WebApi/Faculty.Common/obj/Debug/net7.0/Faculty.Common.pdb
+/Users/milan/RiderProjects/WebApi/Faculty.Common/obj/Debug/net7.0/ref/Faculty.Common.dll
